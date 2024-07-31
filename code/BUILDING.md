@@ -1,0 +1,2 @@
+There is no building required for this attack. You can, however, move the files into a lohani folder titled "www". 
+This will allow the pages to load from a web browser, "cs.williams.edu/~'your_csdept_username'/decoy.php
